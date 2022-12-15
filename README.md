@@ -1,2 +1,2 @@
 # odin-recipes
-I demonstrate on my own basic HTML skills  
+Here I will show you my own skills in basic HTML
